@@ -1,0 +1,9 @@
+{
+    "name": "crx-001",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {},
+    "version": "0.0.1"
+}
